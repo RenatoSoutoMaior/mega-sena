@@ -20,6 +20,6 @@ public class MegaSena {
 
     @Override
     public String toString() {
-        return "Números sorteados: " + numeros;
+        return "Números sorteados: " + numeros + "\n";
     }
 }
